@@ -64,7 +64,6 @@
 				644050722A74426E0039D9E9 /* View */,
 				644050742A7442800039D9E9 /* ViewModel */,
 				644050712A7442570039D9E9 /* Supports */,
-				644050612A74424D0039D9E9 /* ViewController.swift */,
 				644050632A74424D0039D9E9 /* Main.storyboard */,
 				6440506B2A74424E0039D9E9 /* Info.plist */,
 			);
@@ -85,6 +84,7 @@
 		644050722A74426E0039D9E9 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				644050612A74424D0039D9E9 /* ViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
