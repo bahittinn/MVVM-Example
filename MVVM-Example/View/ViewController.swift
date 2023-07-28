@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var usernameLabel: UILabel!
+        @IBOutlet weak var usernameLabel: UILabel!
         @IBOutlet weak var emailLabel: UILabel!
 
         var viewModel: UserViewModel!
